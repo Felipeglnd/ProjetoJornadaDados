@@ -21,6 +21,6 @@ def get_bitcoin_df():
         'preco':preco,
         'ativo':ativo,
         'moeda':moeda,
-        'horario_de_coleta':horario_de_coleta
+        'horario_coleta':horario_de_coleta
     }])
     return df
