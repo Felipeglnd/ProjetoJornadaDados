@@ -1,0 +1,7 @@
+# Ambiente Virtual
+.venv/
+venv/
+
+# Config Locais
+.env
+
